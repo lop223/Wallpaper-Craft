@@ -1,0 +1,30 @@
+.nav-top {
+  display: flex;
+  padding: 1em;
+  margin-right: 0.3em;
+  background-color: #1c1c1c;
+}
+.nav-top > img {
+  margin-left: 2em;
+}
+.nav-top > div {
+  margin-left: 1em;
+  padding-top: 4px;
+}
+
+.navbar-btn-list {
+  display: flex;
+  margin-right: 2em;
+}
+.navbar-btn-list > a {
+  padding-left: 1em;
+  padding-right: 1em;
+  text-decoration: none;
+  background-color: #1c1c1c;
+  display: block;
+  color: #e0ac56;
+}
+.navbar-btn-list a:hover {
+  color: #dfb46f;
+  background-color: #404040;
+}
